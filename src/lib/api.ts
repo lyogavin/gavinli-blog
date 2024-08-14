@@ -20,9 +20,14 @@ export function getPostBySlug(slug: string) {
 
 export function getAllPosts(): Post[] {
   const slugs = getPostSlugs();
+  const topTitle = "Crazy Challenge: Run Llama 405B on a 8GB VRAM GPU";
   const posts = slugs
     .map((slug) => getPostBySlug(slug))
     // sort posts by date in descending order
-    .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+    .sort((post1, post2) => (
+      post1.title == topTitle ? -1 : (
+        post2.title == topTitle ? 1 : (
+        post1.date > post2.date ? -1 : 1)
+    )));
   return posts;
 }
