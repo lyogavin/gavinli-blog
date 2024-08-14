@@ -13,7 +13,7 @@ ogImage:
 
 The AI scribes field has been booming lately, with no fewer than ten companies reached $1M in MRR. I've conducted in-depth research on over 70 companies in this space, analyzing their products, founding dates, available funding information, revenue disclosures, each company's barriers to entry, and their unique positioning.
 
-**Is there still an opportunity in this field? Is it too late to enter? Here are my conclusions.**
+**Is there still an opportunity in this field? Is it too late to enter? Let's find out.**
 
 At first glance, the AI scribes sector may seem insignificant, mainly focusing on recording conversations using AI-driven speech recognition. However, once the right application scenario is found, it can become highly profitable.
 
