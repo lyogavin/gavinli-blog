@@ -1,5 +1,5 @@
 ---
-title: "AI Scribes: Over 10 Companies Achieving $1M in MRR – Insights from My Research"
+title: "AI Scribes:10+ $10m ARR Companies, Too Late to Join?"
 excerpt: "The AI scribes field has been booming lately, with no fewer than ten companies earning tens of millions of dollars annually. I've conducted in-depth research on over 70 companies in this space, analyzing their products, founding dates, available funding information, revenue disclosures, each company's barriers to entry, and their unique positioning."
 coverImage: "/assets/blog/ai-scribes-research/cover.jpg"
 date: "2024-08-12"
