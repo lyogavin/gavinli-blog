@@ -5,6 +5,7 @@ import { Inter } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from '@vercel/analytics/react';
 
 import "./globals.css";
 import LogRocket from 'logrocket';
@@ -68,6 +69,7 @@ export default function RootLayout({
         <div className="min-h-screen">{children}</div>
         <Footer />
         <SpeedInsights />
+        <Analytics />
 
       </body>
     </html>
