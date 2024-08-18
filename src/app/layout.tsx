@@ -13,6 +13,7 @@ import LogRocket from 'logrocket';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://gavinliblog.com'),
   title: `Gavin Li's Blog`,
   description: `Blog about AI technology, entrepreneurship, and indie hacking.`,
   openGraph: {

@@ -1,3 +1,15 @@
+---
+title: "I Trained a 2D Game Animation Generation Model to Create Complex, Cool Game Actions (Fully Open-Source)"
+excerpt: "Six months ago, one afternoon, a friend came to me with an AI question. The problem was that he tried to use OpenAI’s text-to-image model to generate sprites for 2D game animations, but couldn’t achieve it due to character misalignment and consistency issues. I found it interesting and, on a whim, started training a 2D game animation generation model."
+coverImage: "/assets/blog/godmodeanimation/cover.png"
+date: "2024-08-18"
+author:
+  name: Gavin Li
+  picture: "/assets/blog/authors/gavinli.jpg"
+ogImage:
+  url: "/assets/blog/godmodeanimation/cover.png"
+---
+
 
 ## I Trained a 2D Game Animation Generation Model to Create Complex, Cool Game Actions (Fully Open-Source)
 
