@@ -11,9 +11,6 @@ ogImage:
 ---
 
 
-## I Trained a 2D Game Animation Generation Model to Create Complex, Cool Game Actions (Fully Open-Source)
-
-![](https://cdn-images-1.medium.com/max/4700/1*yPDyzfGXE9ao8Gi_NoCWXw.png)
 
 Six months ago, one afternoon, a friend came to me with an AI question.
 
